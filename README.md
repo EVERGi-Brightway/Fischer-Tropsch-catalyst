@@ -1,4 +1,4 @@
-# Fischer-Tropsch-catalyst
+# Fischer-Tropsch catalyst LCI
 Foreground and background data for the LCA of the Fischer-Tropsch catalyst developed during the REDIFUEL project
 
 Description of the LCA can be found in: "Assessment of the climate change and metal depletion impacts of a cobalt 
